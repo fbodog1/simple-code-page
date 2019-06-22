@@ -28,7 +28,7 @@ body {
     height: 100vh;
     background: url(assets/csapat.jpg) no-repeat center;
     background-size: cover;
-    color: #333;
+    color: darkred;
 }
 html, body {
     margin: 0;
