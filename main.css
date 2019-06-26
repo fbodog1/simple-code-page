@@ -4,14 +4,17 @@
     font-family: 'Crimson Text', serif;
     font-size: 1.5rem;
     font-style: italic;
+
+  
 }
 
 p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+  box-border: 5px 10px; color: aqua
 }
 .quote {
     font-family: 'Julius Sans One', sans-serif;
@@ -28,7 +31,7 @@ body {
     height: 100vh;
     background: url(assets/csapat.jpg) no-repeat center;
     background-size: cover;
-    color: darkred;
+    color: white;
 }
 html, body {
     margin: 0;
